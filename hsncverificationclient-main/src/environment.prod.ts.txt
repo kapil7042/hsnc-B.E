@@ -1,0 +1,8 @@
+export const environment = {
+  production: true,
+  apiUrl: 'https://verify.studentscenter.in/server/api',
+  testUser: {
+    token: {},
+    email: '',
+  },
+};
